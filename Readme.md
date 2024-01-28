@@ -6,8 +6,8 @@ This is a simple chat server written in C. It uses the socket API to communicate
 
 To compile the chat server, you need to have GCC installed on your system. You can compile the server using the provided Makefile:
 
-```bash
-make chat-server
+```
+make
 ```
 
 ## Usage
